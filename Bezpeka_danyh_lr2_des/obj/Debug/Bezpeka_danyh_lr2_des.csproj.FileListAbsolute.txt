@@ -1,0 +1,9 @@
+C:\Users\ФЁДОР\Documents\Visual Studio 2013\Projects\Bezpeka_danyh_lr2_des\Bezpeka_danyh_lr2_des\bin\Debug\Bezpeka_danyh_lr2_des.exe.config
+C:\Users\ФЁДОР\Documents\Visual Studio 2013\Projects\Bezpeka_danyh_lr2_des\Bezpeka_danyh_lr2_des\bin\Debug\Bezpeka_danyh_lr2_des.exe
+C:\Users\ФЁДОР\Documents\Visual Studio 2013\Projects\Bezpeka_danyh_lr2_des\Bezpeka_danyh_lr2_des\bin\Debug\Bezpeka_danyh_lr2_des.pdb
+C:\Users\ФЁДОР\Documents\Visual Studio 2013\Projects\Bezpeka_danyh_lr2_des\Bezpeka_danyh_lr2_des\obj\Debug\Bezpeka_danyh_lr2_des.csprojResolveAssemblyReference.cache
+C:\Users\ФЁДОР\Documents\Visual Studio 2013\Projects\Bezpeka_danyh_lr2_des\Bezpeka_danyh_lr2_des\obj\Debug\Bezpeka_danyh_lr2_des.Properties.Resources.resources
+C:\Users\ФЁДОР\Documents\Visual Studio 2013\Projects\Bezpeka_danyh_lr2_des\Bezpeka_danyh_lr2_des\obj\Debug\Bezpeka_danyh_lr2_des.csproj.GenerateResource.Cache
+C:\Users\ФЁДОР\Documents\Visual Studio 2013\Projects\Bezpeka_danyh_lr2_des\Bezpeka_danyh_lr2_des\obj\Debug\Bezpeka_danyh_lr2_des.exe
+C:\Users\ФЁДОР\Documents\Visual Studio 2013\Projects\Bezpeka_danyh_lr2_des\Bezpeka_danyh_lr2_des\obj\Debug\Bezpeka_danyh_lr2_des.pdb
+C:\Users\ФЁДОР\Documents\Visual Studio 2013\Projects\Bezpeka_danyh_lr2_des\Bezpeka_danyh_lr2_des\obj\Debug\Bezpeka_danyh_lr2_des.Form1.resources
